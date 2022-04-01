@@ -41,6 +41,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
+When commiting to main, the image of the gif does not show. Due to this I have also included the link.
 https://i.imgur.com/RMBMB1F.gif 
 ![](https://i.imgur.com/RMBMB1F.gif)
 
